@@ -1,2 +1,9 @@
 *.dat
 results/
+
+
+.Rproj.user
+.RHistory
+*.Rproj
+.Rdatagraphs/
+graphs
